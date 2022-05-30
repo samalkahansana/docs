@@ -22,6 +22,6 @@ children:
   - /managing-a-custom-domain-for-your-github-pages-site
   - /verifying-your-custom-domain-for-github-pages
   - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
+shortTitle: Configure a custom domains
 ---
 
